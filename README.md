@@ -1,7 +1,8 @@
 # User Interface Designer & Programmer
-![User Interface Designer & Programmer](https://pbs.twimg.com/media/FD7Xx6qVIAgqLw_?format=jpg&name=360x360)
+![User Interface Designer & Programmer](https://pbs.twimg.com/media/FE0aNyrUcAEALvg?format=jpg&name=small)
 
 Experienced User Interface Designer with a demonstrated history of working in the design industry. Skilled in UI Designing, UX Designing, User Research, Problem Solving, Product Designing, Visual Design, Design Analytics, and much more. Moreover, I'm an experienced programmer. I try to solve difficult problems every time.
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MDAshrafulIslam215)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='40'>](https://dribbble.com/ashraful_islam215/about)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://dribbble.com/ashraful_islam215/click?type=behance)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://dribbble.com/ashraful_islam215/click?type=instagram)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://dribbble.com/ashraful_islam215/click?type=twitter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://dribbble.com/ashraful_islam215/click?type=linkedin)  
@@ -10,7 +11,7 @@ Experienced User Interface Designer with a demonstrated history of working in th
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MDAshrafulIslam215)  
 
-![Profile views](https://gpvc.arturio.dev/MDAshrafulIslam215)  
+![Profile views](https://gpvc.arturio.dev/MDAshrafulIslam215)   
 
 
 
