@@ -5,7 +5,7 @@ Experienced User Interface Designer with a demonstrated history of working in th
 
 
 
-<h2 align="left">Social Information::</h2>
+<h2 align="left">Social Information:</h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MDAshrafulIslam215)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='40'>](https://dribbble.com/ashraful_islam215/about)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://dribbble.com/ashraful_islam215/click?type=behance)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://dribbble.com/ashraful_islam215/click?type=instagram)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://dribbble.com/ashraful_islam215/click?type=twitter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://dribbble.com/ashraful_islam215/click?type=linkedin)  
 
